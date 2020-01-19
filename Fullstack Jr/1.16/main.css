@@ -1,0 +1,79 @@
+#allB{
+
+    margin: auto;
+    background-color: rgb(230, 230, 230);
+    padding: 1rem;
+    width: 85%;
+}
+
+h1{
+    background-color: dodgerblue;
+    color: white;
+    text-align: center;
+    
+}
+
+h2{
+    background-color: tomato;
+    color: white;
+    text-indent: 1rem;
+    padding: 0.5rem;    
+
+}
+
+.bottomBorder{
+border-bottom: 1px solid tomato;
+}
+
+ul{
+    padding: 0;
+}
+
+.back{
+    list-style: none;
+    background-color: grey;
+    margin: 1rem;
+    border-radius: 5px;
+    padding: 1rem;
+    margin-left: 0;
+    margin-right: 0;
+
+}
+
+.redBox{
+    background-color: tomato;
+    height: 2rem;
+    width: 2rem;
+    display: inline-block;
+    
+}
+
+.blueBox{
+    background-color: dodgerblue;
+    height: 2rem;
+    width: 2rem;
+    display: inline-block;
+    
+}
+
+.myPic{
+    height: 5rem;
+    width: 5rem;
+    border-radius: 5rem;
+    display: block;
+    padding: 1rem;
+}
+
+.myList1{
+    list-style: none;
+    color: tomato;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.myList2{
+    list-style: none;
+    color: dodgerblue;
+    font-weight: bold;
+    font-size: 20px;
+}
